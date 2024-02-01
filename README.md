@@ -1,5 +1,13 @@
 # Postman Colección, usos y métodos asociados a proyecto RossManager
 
+
+# API TRELLO
+Además del uso de API Trello para trabajar con sus tableros correspondientes.
+
+![image](https://github.com/velascofelipe/ColeccionPostman/assets/56605566/027ba00f-dbf8-4b7d-aa3a-07aabcba3c83)
+
+
+
 # Método POST
 ![image](https://github.com/velascofelipe/ColeccionPostman/assets/56605566/c73dad80-d134-4680-9c56-e2db33f21e0d)
 
